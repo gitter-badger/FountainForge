@@ -1,6 +1,8 @@
 FountainForge
 =============
 
+[![Join the chat at https://gitter.im/FountainMC/FountainForge](https://badges.gitter.im/FountainMC/FountainForge.svg)](https://gitter.im/FountainMC/FountainForge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The [Minecraft Forge] implementation of the [FountainAPI], licensed under the MIT license.
 
 - [Homepage]
